@@ -1,0 +1,5 @@
+.hello {
+    color: purple;
+    background-color: red;
++   background: url('./assets/img/tiles.png');
+}
